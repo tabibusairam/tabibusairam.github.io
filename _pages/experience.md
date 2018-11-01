@@ -49,7 +49,7 @@ A [research paper]({{site.url}}{{site.baseurl}}/docs/publications/FLAIRS.pdf){:t
 
 <br />
 
-[<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/kgp.jpg">](http://www.iitkgp.ac.in/){:target="_blank"}
+[<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/ntu.png">](http://www.ntu.edu.sg/Pages/home.aspx){:target="_blank"}
 
 _September-2016 --- December-2016_
 
