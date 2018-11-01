@@ -5,7 +5,7 @@
   link: "/experience"
 
 - name: "CV"
-  link: https://github.com/tabibusairam/tabibusairam.github.io/blob/master/docs/cv/Sairamtabibu_CV.pdf
+  link: "/docs/cv/Sairamtabibu_CV.pdf"
 
 - name: "PUBLICATIONS"
   link: "/publications"
