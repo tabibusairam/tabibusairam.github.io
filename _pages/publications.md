@@ -1,7 +1,7 @@
 ---
-title: Vikram Voleti's publications
+title: Sairam Tabibu's publications
 layout: default
-excerpt: Vikram Voleti's publications
+excerpt: Sairam Tabibu's publications
 permalink: /publications
 ---
 
