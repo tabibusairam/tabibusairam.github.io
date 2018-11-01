@@ -89,7 +89,7 @@ _Summer 2016_
 
 ### Infrared image/video processing in the Maritime environment
 
-[** NTU, Singapore**](http://www.ntu.edu.sg/Pages/home.aspx) --- under [Prof. Deepu Rajan](http://www3.ntu.edu.sg/home/ASDRajan/){:target="_blank"}, School of Computer Science and Engineering
+[**NTU, Singapore**](http://www.ntu.edu.sg/Pages/home.aspx) --- under [Prof. Deepu Rajan](http://www3.ntu.edu.sg/home/ASDRajan/){:target="_blank"}, School of Computer Science and Engineering
 
 Worked on Detecting and tracking ships, boats, frigates using IR cameras along the Singapore coastline with every possible variation in orientation,shape, distance and surrounding effects. Selective search using graph methods and combining them on the basis of several similarity measures such as color shape to get probable Bounding boxes. CNN used to extract features and SVM’s to classify them .
 
