@@ -51,15 +51,18 @@ A [research paper]({{site.url}}{{site.baseurl}}/docs/publications/FLAIRS.pdf){:t
 
 [<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/kgp.jpg">](http://www.iitkgp.ac.in/){:target="_blank"}
 
-_2012 --- 2013_
+_September-2016 --- December-2016_
 
-### Identification of Bilabial Consonants in Audio and Lip Closures in Video --- B.Tech. Thesis
+### Multimodal Analysis for Deception Detection
 
-[**IIT Kharagpur, India**](http://www.iitkgp.ac.in/) --- under [Prof. Rajiv Ranjan Sahay](http://www1.iitkgp.ac.in/fac-profiles/showprofile.php?empcode=STmUU&depts_name=EE){:target="_blank"}, Electrical Engineering
+[**NTU Singapore**](http://www.ntu.edu.sg/Pages/home.aspx) --- under [Dr. Rajiv Bajpai](https://scholar.google.com.sg/citations?user=hHZR1xkAAAAJ&hl=en){:target="_blank"}, School of Computer Science and Engineering
 
-I worked on the identification of bilabial consonants in video and audio. The goal was to measure the time offset between the two modes using corresponding time points where bilabials occur. I learnt C++ and the OpenCV library, and detected lip closures in video using the standard Viola-Jones face detector, and a novel algorithm for lip closure detection. I trained a Gaussian Mixture Model in MATLAB on the MFCC features of bilabials in the speech signals of different speakers. A correlation was drawn between the time points of bilabials in audio and video.
+We worked on developing a data driven method for automatic deception detection in real-life trial data using visual and verbal cues. Using OpenFace with facial action unit recognition, we analyze the movement of facial features of the witness when posed with questions and the acoustic patterns using OpenSmile. We then perform a lexical analysis on the spoken words, emphasizing the use of pauses and utterance breaks, feeding that to a Support Vector Machine to test deceit or truth prediction. We then try out a method to incorporate utterance-based fusion of visual and lexical analysis, using string based matching.
 
-[THESIS](https://github.com/voletiv/BTP_GMM_lipClosure/blob/master/Bachelors_Thesis.pdf){:target="_blank"} | [Presentation](https://github.com/voletiv/BTP_GMM_lipClosure/blob/master/Vikram_Voleti_\%5B09EE3501\%5D_BTP_Presentation.pdf){:target="_blank"} | [GitHub](https://github.com/voletiv/BTP_GMM_lipClosure){:target="_blank"} repository containing thesis, presentation, code files, and results
+A [research paper]({{site.url}}{{site.baseurl}}/docs/publications/ICDMW.pdf){:target="_blank"} based on this work has been published in [IEEE Explore](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7836768){:target="_blank"} in proceedings of the 16th International Conference on Data Mining Workshops, [ICDM 2016](https://aaai.org/ocs/index.php/FLAIRS/FLAIRS17/paper/view/15505){:target="_blank"}. 
+
+| [**Research paper**]({{site.url}}{{site.baseurl}}/docs/publications/ICDMW.pdf){:target="_blank"}: Jaiswal, Mimansa, Sairam Tabibu, and Rajiv Bajpai. "The Truth and Nothing But the Truth: Multimodal Analysis for Deception Detection." ICDM Workshops. 2016. |
+
 
 <br />
 
