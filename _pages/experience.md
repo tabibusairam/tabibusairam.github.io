@@ -66,7 +66,7 @@ A [research paper]({{site.url}}{{site.baseurl}}/docs/publications/ICDMW.pdf){:ta
 
 <br />
 
-# RESEARCH INTERNSHIPS
+# RESEARCH & TECHNICAL INTERNSHIPS
 
 [<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/leuven.png">](https://www.kuleuven.be/english/){:target="_blank"}
 
