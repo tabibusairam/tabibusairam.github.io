@@ -1,116 +1,199 @@
 ---
-title: Sairam Tabibu's work experience
+title: Vikram Voleti's work experience
 layout: default
+excerpt: All the companies and places Vikram Voleti has worked at, and the jobs
 permalink: /experience
 ---
 
-[<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/iiit.png">](https://iiit.ac.in/){:target="_blank"}
+[<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/mila.png">](https://mila.quebec/en/){:target="_blank"}
 
-_November 2017 --- present_
+_September 2018 --- present_
 
-### [CVIT, IIIT Hyderabad](http://cvit.iiit.ac.in/){:target="_blank"}
+### [Mila, University of Montreal](https://mila.quebec/en/){:target="_blank"}
 
-**Research Fellow**, supervisor: [Prof. C.V. Jawahar](https://faculty.iiit.ac.in/~jawahar/){:target="_blank"}
+**PhD**, supervisor: [Prof. Chris Pal](https://mila.quebec/en/person/pal-christopher/){:target="_blank"}
+
+<br />
+
+# WORK EXPERIENCE
+
+[<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/iiith.png">](https://cvit.iiit.ac.in){:target="_blank"}
+
+_May 2017 --- August 2018_
+
+### [International Institute of Information Techonology - Hyderabad](https://cvit.iiit.ac.in){:target="_blank"}
+
+**Research Assistant --- Applied Research Lab**, under [Prof. C. V. Jawahar](https://faculty.iiit.ac.in/~jawahar/){:target="_blank"}, CVIT, IIIT-Hyderabad, India
+
+I experiment with convolutional and recurrent neural networks in computer vision tasks.
+
+- **Video Translation**
+    - To generate videos of movies and educational tutorials in Indian languages by morphing lip movement
+    -  Experimenting with GANs (Pix2Pix) to generate videos using original faces, new key facial landmarks, and dubbed audio
+
+- **Assessor for Lipreader**
+    - Build a visual speech recognizer (lipreader) to classify spoken words in videos, and an assessor by combining convolutional and recurrent neural networks to check if the lipreader’s output is correct
+    - Use the lipreader and assessor for self-training on unlabelled data, zero-shot learning on out-ofvocabulary words, and information retrieval
+
+
+| [**Workshop paper**]({{site.url}}{{site.baseurl}}/docs/publications/2018_04_CVPRW.pdf){:target="_blank"}: Abhishek Jha*, Vikram Voleti*, Vinay P. Namboodiri, C. V. Jawahar, "Lip-Synchronization for Dubbed Instructional Videos", in _[CVPR Workshop (FIVER)](http://fiver.eecs.umich.edu/#abstracts){:target="_blank"}_, 2018 |
+
+<br />
+
+
+[<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/playment.jpg">](https://playment.io){:target="_blank"}
+
+_January 2018 --- June 2018_
+
+### [Playment](https://playment.io){:target="_blank"}
+
+**Computer Vision Consultant**
+
+I was a consultant for the computer vision work at Playment. We focused on making more exhaustive and comprehensive semantic segmentation for autonomous driving using deep learning. We also worked at using classical computer vison as well as deep learning to solve various industrial problems including facial recognition, facial landmark detection, pedestrian detection.
+
+<br />
+
+
+[<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/talent_sprint.png">](https://www.talentsprint.com/aiml.dpl){:target="_blank"}
+
+_January 2018 --- May 2018_
+
+### [IIIT-Hyderabad](https://cvit.iiit.ac.in){:target="_blank"} & [Talent Sprint](https://www.talentsprint.com/){:target="_blank"}
+
+**Mentor --- Foundations of Artificial Intelligence and Machine Learning**
+
+This is a certificate program by IIIT-H Machine Learning Lab. I assist in creating tutorials on machine learning, and mentor participants during lab sessions.
+
+<br />
+
+
+[<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/gor.png">](http://www.greyorange.com/){:target="_blank"}
+
+_Feb 2016 --- May 2017_
+
+### [GreyOrange Robotics](http://www.greyorange.com/){:target="_blank"}
+
+**Image Processing Engineer --- Embedded Systems team**
+
+GreyOrange Robotics is a multinational firm that designs, manufactures and deploys advanced robotics systems for automation at warehouses, distribution and fulfillment centres.
+
+My job was to developed a computer vision module to perform video processing in real time for warehouse automation. We made an "Empty Carriage Detection System" (ECDS) for the "Cross-Belt Sorter" (CBS) that detects in real time whether a carriage in a conveyor belt has a packet on it or not, and relays the information to the server and mechanical systems. I also helped develop the embedded vision module in automated guided robots for warehouses, called "Butlers".
+
+A [research paper]({{site.url}}{{site.baseurl}}/docs/publications/2017_ICIDE.pdf){:target="_blank"} based on some of the work has been accepted at the International Conference on Industrial Design Engineering, [ICIDE 2017](http://www.icide.org/){:target="_blank"}.
+
+| [**Research paper**]({{site.url}}{{site.baseurl}}/docs/publications/2017_ICIDE.pdf){:target="_blank"}: V. Voleti, P. Mohan, S. Gupta, J. Iqbal, "Simple Real-Time Pattern Recognition for Industrial Automation", in _Proc. International Conference on Industrial Design Engineering_, 2017 |
+
+<br />
+
+
+[<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/airbus.jpg">](http://www.airbus.com/){:target="_blank"}
+
+_July 2014 --- Feb 2016_
+
+### [Airbus, India](http://www.airbus.com/){:target="_blank"}
+
+**Associate Engineer --- Avionics Software and Systems Testing group**
+
+Airbus is a commercial aircraft manufacturer, and the largest aeronautics & space company in Europe. I worked in the Bangalore (India) office as part of the Avionics Software and Systems Testing group. I was involved in development and integration of avionics systems in the Flight Warning Computer (FWC) for aircrafts in the long-range family.
+
+My job was to simulate signal-level changes in the Flight Warning Computer, such as adding new signals for new functionalities, re-routing signals through different paths. This was followed by rigorous testing of the FWC for correct operation. We designed the re-routing paths, as well as the tests required to ensure all the functionalities of the FWC run correctly. For all development, standard avionics coding guidelines (DO-178B) were followed.
 
 <br />
 
 
 # EDUCATION
 
-[<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/iitbhu.png">](http://www.iitbhu.ac.in/){:target="_blank"}
+[<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/kgp.jpg">](http://www.iitkgp.ac.in/){:target="_blank"}
 
-_2013 --- 2017_
+_2009 --- 2014_
 
-### [Indian Institute of Technology,(BHU), Varanasi](http://www.iitbhu.ac.in/){:target="_blank"}, India
+### [Indian Institute of Technology, Kharagpur](http://www.iitkgp.ac.in/){:target="_blank"}, India
 
-Bachelors Degree in Electronics Engineering
+Dual Degree (B.Tech. (H) + M.Tech.) in Electrical Engineering,<br />with master's specialization in Instrumentation and Signal Processing.
+
 <br />
 
 
 # RESEARCH PROJECTS
 
-[<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/ntu.png">](http://www.ntu.edu.sg/Pages/home.aspx){:target="_blank"}
+[<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/kgp.jpg">](http://www.iitkgp.ac.in/){:target="_blank"}
 
-_January-2017 --- April-2017_
+_2013 --- 2014_
 
-### Lexical and Visual Analysis to Identify Posts Warranting Empathetic Responses
+### Image De-fencing using Microsoft Kinect --- M.Tech. Thesis
 
-[**NTU Singapore**](http://www.ntu.edu.sg/Pages/home.aspx) --- under [Prof. Erik Cambria](http://sentic.net/erikcambria/){:target="_blank"}, School of Computer Science and Engineering
+[**IIT Kharagpur, India**](http://www.iitkgp.ac.in/) --- under [Prof. Rajiv Ranjan Sahay](http://www1.iitkgp.ac.in/fac-profiles/showprofile.php?empcode=STmUU&depts_name=EE){:target="_blank"}, Electrical Engineering
 
-We worked on understanding the sentiment that a person elicits on different posts present on different social
-media sites, on the topics of abuse or mental health. We propose a method supported by hand-crafted features
-to judge if the post requires an empathetic response.
-The model is trained upon posts from various web-pages
-and corresponding comments, on both the captions and the
-Images. We were able to obtain 80% accuracy in tagging
-posts requiring empathetic responses.
+I worked on de-fencing of images using RGB-D data from Microsoft Kinect. We recorded images of scenes with fence-like occlusions and were successful in removing the fences from the scenes. We first recorded multpiple images of the same scene with slight spatial variation of the camera, and computed the approximate global shift among them. We then used loopy belief propagation to inpaint. A comparison of our technique and the erstwhile standards was made, and our method was demonstrated to be better.
 
-A [research paper]({{site.url}}{{site.baseurl}}/docs/publications/FLAIRS.pdf){:target="_blank"} based on this work has been published in [AAAI Publications](https://aaai.org/ocs/index.php/FLAIRS/FLAIRS17/paper/view/15505){:target="_blank"} in proceedings of the Proceedings of the Thirtieth International Florida Artificial Intelligence Research Society Conference, [FLAIRS 2017](https://aaai.org/ocs/index.php/FLAIRS/FLAIRS17/paper/view/15505){:target="_blank"}. 
+A [research paper]({{site.url}}{{site.baseurl}}/docs/publications/2015_ICAPR.pdf){:target="_blank"} based on this work has been published in [IEEE Xplore](http://ieeexplore.ieee.org/document/7050696/){:target="_blank"} in proceedings of the International Conference on Advances in Pattern Recognition, [ICAPR 2015](http://www.isical.ac.in/~icapr15/AcceptedPapers.php){:target="_blank"}. A [journal paper](docs/publications/IJCV_2017.pdf){:target="_blank"} based on this work is under review at the International Journal of Computer Vision [(IJCV)](https://link.springer.com/journal/11263).
 
-| [**Research paper**]({{site.url}}{{site.baseurl}}/docs/publications/FLAIRS.pdf){:target="_blank"}: Jaiswal, Mimansa, Sairam Tabibu, and Erik Cambria. "“Hang in There”: Lexical and Visual Analysis to Identify Posts Warranting Empathetic Responses." (2017). |
+| [**Research paper**]({{site.url}}{{site.baseurl}}/docs/publications/2015_ICAPR.pdf){:target="_blank"}: S. Jonna, V. S. Voleti, R. R. Sahay, and M. S. Kankanhalli, "A Multimodal Approach for Image De-fencing and Depth Inpainting", in _Proc. Int. Conf. Advances in Pattern Recognition_, 2015, pp. 1---6 |
 
+| [**Journal paper**]({{site.url}}{{site.baseurl}}/docs/publications/2017_IJCV.pdf){:target="_blank"}: S. Jonna, S. Satapathy, V. S. Voleti, R. R. Sahay, "Unveiling the scene: A Multimodal Framework for Simultaneous Image Disocclusion and Depth Map Completion using Computational Cameras", _International Journal of Computer Vision_, 2017 | (under review)
+
+[THESIS](https://github.com/voletiv/MTP_inPainting/blob/master/Vikram_Voleti_Masters_Thesis_compressed.pdf){:target="_blank"} | [Presentation](https://github.com/voletiv/MTP_inPainting/blob/master/Sem_10_MTP_Presentation.pdf){:target="_blank"} | [GitHub](https://github.com/voletiv/MTP_inPainting){:target="_blank"} repository containing thesis, presentation, code files, and results
 
 <br />
 
-[<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/ntu.png">](http://www.ntu.edu.sg/Pages/home.aspx){:target="_blank"}
+[<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/kgp.jpg">](http://www.iitkgp.ac.in/){:target="_blank"}
 
-_September-2016 --- December-2016_
+_2012 --- 2013_
 
-### Multimodal Analysis for Deception Detection
+### Identification of Bilabial Consonants in Audio and Lip Closures in Video --- B.Tech. Thesis
 
-[**NTU Singapore**](http://www.ntu.edu.sg/Pages/home.aspx) --- under [Dr. Rajiv Bajpai](https://scholar.google.com.sg/citations?user=hHZR1xkAAAAJ&hl=en){:target="_blank"}, School of Computer Science and Engineering
+[**IIT Kharagpur, India**](http://www.iitkgp.ac.in/) --- under [Prof. Rajiv Ranjan Sahay](http://www1.iitkgp.ac.in/fac-profiles/showprofile.php?empcode=STmUU&depts_name=EE){:target="_blank"}, Electrical Engineering
 
-We worked on developing a data driven method for automatic
-deception detection in real-life trial data using visual and verbal cues. Using OpenFace with facial action unit recognition, we analyze the movement of facial features of the witness when posed with questions and the acoustic patterns using OpenSmile. We then perform a lexical analysis on the spoken words, emphasizing the use of pauses and utterance breaks, feeding that to a Support Vector Machine to test deceit or truth prediction. We then try out a method to incorporate utterance-based fusion of visual and lexical analysis, using string based matching.
+I worked on the identification of bilabial consonants in video and audio. The goal was to measure the time offset between the two modes using corresponding time points where bilabials occur. I learnt C++ and the OpenCV library, and detected lip closures in video using the standard Viola-Jones face detector, and a novel algorithm for lip closure detection. I trained a Gaussian Mixture Model in MATLAB on the MFCC features of bilabials in the speech signals of different speakers. A correlation was drawn between the time points of bilabials in audio and video.
 
-A [research paper]({{site.url}}{{site.baseurl}}/docs/publications/ICDMW.pdf){:target="_blank"} based on this work has been published in [IEEE Explore](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7836768){:target="_blank"} in proceedings of the 16th International Conference on Data Mining Workshops, [ICDM 2016](https://aaai.org/ocs/index.php/FLAIRS/FLAIRS17/paper/view/15505){:target="_blank"}. 
-
-| [**Research paper**]({{site.url}}{{site.baseurl}}/docs/publications/ICDMW.pdf){:target="_blank"}: Jaiswal, Mimansa, Sairam Tabibu, and Rajiv Bajpai. "The Truth and Nothing But the Truth: Multimodal Analysis for Deception Detection." ICDM Workshops. 2016. |
+[THESIS](https://github.com/voletiv/BTP_GMM_lipClosure/blob/master/Bachelors_Thesis.pdf){:target="_blank"} | [Presentation](https://github.com/voletiv/BTP_GMM_lipClosure/blob/master/Vikram_Voleti_\%5B09EE3501\%5D_BTP_Presentation.pdf){:target="_blank"} | [GitHub](https://github.com/voletiv/BTP_GMM_lipClosure){:target="_blank"} repository containing thesis, presentation, code files, and results
 
 <br />
 
-# RESEARCH & TECHNICAL INTERNSHIPS
+# RESEARCH INTERNSHIPS
 
-[<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/rutgers.png">](https://www.rutgers.edu/){:target="_blank"}
+[<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/leuven.png">](https://www.kuleuven.be/english/){:target="_blank"}
 
-_Summer 2017_
+_Summer 2013_
 
-### Crowd simulation
+### Implementation of Carry-Free Arithmetic Operations in FPGA
 
-[**Rutgers University, New Brunswick**](https://www.rutgers.edu/) --- under [Prof. Mubbassir Kapadia](https://www.cs.rutgers.edu/~mk1353/){:target="_blank"},  Computer Science Department 
+[**KU Leuven, Belgium**](https://www.kuleuven.be/english/) --- under [Prof. Ingrid Verbauwhede](https://www.kuleuven.be/wieiswie/en/person/00018159){:target="_blank"}, Computer Security & Industrial Applications, ESAT
 
-[Remote Project] Worked on crowd simulations investigating the variety of social forces and various optimizations which comes into play while trying to imitate a real time situation using the SteerSuite framework.
+I worked on the carry-free implementations of arithmetic operations of addition, subtraction and multiplication. Binary numbers are first converted to a recoded digit format that eliminates carry propagation. I designed the truth tables for this conversion, as well as subsequent addition, subtraction and multiplication. I then simplified the circuits into Product-of-Sums form, and coded them in Verilog. The time taken by these circuits were compared with standard implementation.
 
-A [Youtube Channel](https://www.youtube.com/channel/UCYEGmH0plrYfEzMd-i3B9HA/videos?sort=dd&view=0&shelf_id=0&view_as=subscriber){:target="_blank"} displaying the simulations.
+A [single-author research paper]({{site.url}}{{site.baseurl}}/docs/publications/2018_NCC.pdf){:target="_blank"} based on this work has been written.
 
+| [**Research paper**]({{site.url}}{{site.baseurl}}/docs/publications/2018_NCC.pdf){:target="_blank"}: V. Voleti, "Carry-Free Implementations of Arithmetic Operations in FPGA" |
 
-<br />
-
-[<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/ntu.png">](http://www.iitkgp.ac.in/){:target="_blank"}
-
-_Summer 2016_
-
-### Infrared image/video processing in the Maritime environment
-
-[** NTU, Singapore**](http://www.ntu.edu.sg/Pages/home.aspx) --- under [Prof. Deepu Rajan](http://www3.ntu.edu.sg/home/ASDRajan/){:target="_blank"}, School of Computer Science and Engineering
-
-Worked on Detecting and tracking ships, boats, frigates using IR cameras along the Singapore coastline with every possible variation in orientation,shape, distance and surrounding effects. Selective search using graph methods and combining them on the basis of several similarity measures such as color shape to get probable Bounding boxes. CNN used to extract features and SVM’s to classify them .
-
-[Report](https://docs.google.com/document/d/1RP5xyj35-vTjzmrRlPIW7YQw-oVJxNPoLKdmF5bCq0Y/edit?usp=sharing){:target="_blank"} containing details of project.
+[Report](https://github.com/voletiv/summer_2013_KULeuven/blob/master/Leuven_Report/KULeuven_Report.pdf){:target="_blank"} | [Presentation](https://github.com/voletiv/summer_2013_KULeuven/blob/master/Leuven_Presentation/Implementation_of_Carry-Free_Arithmetic_Primitives_for_Prime_Field_Elliptic_Curve_Cryptography.pdf){:target="_blank"} | [GitHub](https://github.com/voletiv/summer_2013_KULeuven){:target="_blank"} repository containing report and presentation
 
 <br />
 
-[<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/cwnu.jpg">](http://eng.changwon.ac.kr/eng/main/index.php){:target="_blank"}
+[<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/kgp.jpg">](http://www.iitkgp.ac.in/){:target="_blank"}
 
+_Summer 2012_
 
-_Summer 2015_
+### Fingertip Gesture Recognizer using HMMs
 
-### Real-Time Illumination Invariant Face Recognition Using Higher Order Local Discrete Patterns
+[**IIT Kharagpur, India**](http://www.iitkgp.ac.in/) --- under [Prof. Aurobinda Routray](http://www.aroutray.org/){:target="_blank"}, Electrical Engineering
 
-[**Changwon National University, South Korea**](http://eng.changwon.ac.kr/eng/main/index.php) --- under [Prof. Oh Seol Kwon](http://islab.changwon.ac.kr/){:target="_blank"}, Electrical Electronics and Control & Instrumentation Engineering
+I first implemented Hidden Markov Models (HMM) in MATLAB from scratch, and verified the implementation outputs with those of standard implementation. I then made a simple gesture recognizer in MATLAB using HMMs.
 
-Worked on Improving and implementation of Real time face recognition algorithm on Embedded systems such as Raspberry Pi to be deployed as a low cost product. Illumination invariance brought by introducing CLAHE and MLBOHE with minimal processing and significant accuracy improvement.
+[Report](https://github.com/voletiv/summer_2012_HMM_FingerTipGestureRecognition/blob/master/Vikram\%20Voleti\%20\%5B09EE3501\%5D\%20Summer\%202012\%20Internship\%20Report.pdf){:target="_blank"} | [Presentation](https://github.com/voletiv/summer_2012_HMM_FingerTipGestureRecognition/blob/master/Ppt.pdf){:target="_blank"} | [GitHub](https://github.com/voletiv/summer_2012_HMM_FingerTipGestureRecognition){:target="_blank"} repository containing report, presentation, code files, and results
 
-[Presentation](https://docs.google.com/presentation/d/1-ll6d8Roit3vQHDcFgP7_X8bDOrhgfRjVkXC8x-vOrY/edit?usp=sharing){:target="_blank"} containing details of the project.
+<br />
+
+[<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/imperial.jpg">](https://www.imperial.ac.uk/){:target="_blank"}
+
+_Summer 2011_
+
+### Measurement of Intra-die Power Variation in Sub-nm FPGA’s
+
+[**Imperial College, London**](https://www.imperial.ac.uk/) --- under [Prof. Peter Cheung](http://www.imperial.ac.uk/people/p.cheung){:target="_blank"}, Electrical and Electronic Engineering
+
+I experimented with an FPGA, and measured the power consumption among the LookUp Tables (LUTs) within it. An automated workflow for the measurement of power across the FPGA was made, by first implementing a circuit in each LUT, measuring the power on an oscilloscope using the JTAG terminals on the FPGA, recording the oscilloscope's readings in MATLAB, and plotting graphs from MATLAB.
+
+[Presentation](https://github.com/voletiv/summer_2011_FPGA_Imperial_College_London/blob/master/An Automated Flow for Intra-Die Power Variation Measurement.pdf){:target="_blank"} | [GitHub](https://github.com/voletiv/summer_2011_FPGA_Imperial_College_London){:target="_blank"} repository containing presentation, certificate, and recommendation letter from Prof. Peter Cheung
 
 

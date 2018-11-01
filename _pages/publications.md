@@ -1,7 +1,7 @@
 ---
-title: Sairam Tabibu's publications
+title: Vikram Voleti's publications
 layout: default
-excerpt: Sairam Tabibu's publications
+excerpt: Vikram Voleti's publications
 permalink: /publications
 ---
 
@@ -15,7 +15,7 @@ permalink: /publications
 
 <p>&nbsp;</p>
 
-<!-- {% comment %}
+{% comment %}
 ## Journal papers
 
 {% for publication in site.data.journal_papers %}
@@ -35,4 +35,5 @@ permalink: /publications
 
 {% include publications.html %}
 
-{% endfor %} -->
+{% endfor %}
+
