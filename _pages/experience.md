@@ -16,19 +16,6 @@ _November 2017 --- present_
 <br />
 
 
-# EDUCATION
-
-[<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/iitbhu.png">](http://www.iitbhu.ac.in/){:target="_blank"}
-
-_2013 --- 2017_
-
-### [Indian Institute of Technology, (BHU), Varanasi](http://www.iitbhu.ac.in/){:target="_blank"}, India
-
-Bachelors Degree in Electronics Engineering
-
-<br />
-
-
 # RESEARCH PROJECTS
 
 [<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/ntu.png">](http://www.ntu.edu.sg/Pages/home.aspx){:target="_blank"}
@@ -111,4 +98,16 @@ Worked on Improving and implementation of Real time face recognition algorithm o
 
 [Presentation](https://docs.google.com/presentation/d/1-ll6d8Roit3vQHDcFgP7_X8bDOrhgfRjVkXC8x-vOrY/edit?usp=sharing){:target="_blank"} containing details of the project.
 
+<br />
 
+# EDUCATION
+
+[<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/iitbhu.png">](http://www.iitbhu.ac.in/){:target="_blank"}
+
+_2013 --- 2017_
+
+### [Indian Institute of Technology, (BHU), Varanasi](http://www.iitbhu.ac.in/){:target="_blank"}, India
+
+Bachelors Degree in Electronics Engineering
+
+<br />
