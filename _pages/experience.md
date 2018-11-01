@@ -5,7 +5,7 @@ excerpt: All the companies and places Sairam Tabibu has worked at, and the jobs
 permalink: /experience
 ---
 
-[<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/iiith.png">](http://cvit.iiit.ac.in/){:target="_blank"}
+[<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/iiit.png">](http://cvit.iiit.ac.in/){:target="_blank"}
 
 _November 2017 --- present_
 
@@ -68,48 +68,47 @@ A [research paper]({{site.url}}{{site.baseurl}}/docs/publications/ICDMW.pdf){:ta
 
 # RESEARCH & TECHNICAL INTERNSHIPS
 
-[<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/leuven.png">](https://www.kuleuven.be/english/){:target="_blank"}
+[<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/rutgers.png">](https://www.rutgers.edu/){:target="_blank"}
 
-_Summer 2013_
+_Summer 2017_
 
-### Implementation of Carry-Free Arithmetic Operations in FPGA
+### Crowd simulation
 
-[**KU Leuven, Belgium**](https://www.kuleuven.be/english/) --- under [Prof. Ingrid Verbauwhede](https://www.kuleuven.be/wieiswie/en/person/00018159){:target="_blank"}, Computer Security & Industrial Applications, ESAT
+[**Rutgers University, New Brunswick**](https://www.rutgers.edu/) --- under [Prof. Mubbassir Kapadia](https://www.cs.rutgers.edu/~mk1353/){:target="_blank"},  Computer Science Department 
 
-I worked on the carry-free implementations of arithmetic operations of addition, subtraction and multiplication. Binary numbers are first converted to a recoded digit format that eliminates carry propagation. I designed the truth tables for this conversion, as well as subsequent addition, subtraction and multiplication. I then simplified the circuits into Product-of-Sums form, and coded them in Verilog. The time taken by these circuits were compared with standard implementation.
+[Remote Project] Worked on crowd simulations investigating the variety of social forces and various optimizations which comes into play while trying to imitate a real time situation using the SteerSuite framework.
 
-A [single-author research paper]({{site.url}}{{site.baseurl}}/docs/publications/2018_NCC.pdf){:target="_blank"} based on this work has been written.
+A [Youtube Channel](https://www.youtube.com/channel/UCYEGmH0plrYfEzMd-i3B9HA/videos?sort=dd&view=0&shelf_id=0&view_as=subscriber){:target="_blank"} displaying the simulations.
 
-| [**Research paper**]({{site.url}}{{site.baseurl}}/docs/publications/2018_NCC.pdf){:target="_blank"}: V. Voleti, "Carry-Free Implementations of Arithmetic Operations in FPGA" |
-
-[Report](https://github.com/voletiv/summer_2013_KULeuven/blob/master/Leuven_Report/KULeuven_Report.pdf){:target="_blank"} | [Presentation](https://github.com/voletiv/summer_2013_KULeuven/blob/master/Leuven_Presentation/Implementation_of_Carry-Free_Arithmetic_Primitives_for_Prime_Field_Elliptic_Curve_Cryptography.pdf){:target="_blank"} | [GitHub](https://github.com/voletiv/summer_2013_KULeuven){:target="_blank"} repository containing report and presentation
 
 <br />
 
-[<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/kgp.jpg">](http://www.iitkgp.ac.in/){:target="_blank"}
+[<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/ntu.png">](http://www.ntu.edu.sg/Pages/home.aspx){:target="_blank"}
 
-_Summer 2012_
+_Summer 2016_
 
-### Fingertip Gesture Recognizer using HMMs
+### Infrared image/video processing in the Maritime environment
 
-[**IIT Kharagpur, India**](http://www.iitkgp.ac.in/) --- under [Prof. Aurobinda Routray](http://www.aroutray.org/){:target="_blank"}, Electrical Engineering
+[** NTU, Singapore**](http://www.ntu.edu.sg/Pages/home.aspx) --- under [Prof. Deepu Rajan](http://www3.ntu.edu.sg/home/ASDRajan/){:target="_blank"}, School of Computer Science and Engineering
 
-I first implemented Hidden Markov Models (HMM) in MATLAB from scratch, and verified the implementation outputs with those of standard implementation. I then made a simple gesture recognizer in MATLAB using HMMs.
+Worked on Detecting and tracking ships, boats, frigates using IR cameras along the Singapore coastline with every possible variation in orientation,shape, distance and surrounding effects. Selective search using graph methods and combining them on the basis of several similarity measures such as color shape to get probable Bounding boxes. CNN used to extract features and SVM’s to classify them .
 
-[Report](https://github.com/voletiv/summer_2012_HMM_FingerTipGestureRecognition/blob/master/Vikram\%20Voleti\%20\%5B09EE3501\%5D\%20Summer\%202012\%20Internship\%20Report.pdf){:target="_blank"} | [Presentation](https://github.com/voletiv/summer_2012_HMM_FingerTipGestureRecognition/blob/master/Ppt.pdf){:target="_blank"} | [GitHub](https://github.com/voletiv/summer_2012_HMM_FingerTipGestureRecognition){:target="_blank"} repository containing report, presentation, code files, and results
+
+[Report](https://docs.google.com/document/d/1RP5xyj35-vTjzmrRlPIW7YQw-oVJxNPoLKdmF5bCq0Y/edit?usp=sharing){:target="_blank"} containing details of project.
+
 
 <br />
 
-[<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/imperial.jpg">](https://www.imperial.ac.uk/){:target="_blank"}
+[<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/cwnu.jpg">](http://eng.changwon.ac.kr/eng/main/index.php){:target="_blank"}
 
-_Summer 2011_
+_Summer 2015_
 
-### Measurement of Intra-die Power Variation in Sub-nm FPGA’s
+### Real-Time Illumination Invariant Face Recognition Using Higher Order Local Discrete Patterns
 
-[**Imperial College, London**](https://www.imperial.ac.uk/) --- under [Prof. Peter Cheung](http://www.imperial.ac.uk/people/p.cheung){:target="_blank"}, Electrical and Electronic Engineering
+[**Changwon National University, South Korea**](http://eng.changwon.ac.kr/eng/main/index.php) --- under [Prof. Oh Seol Kwon](http://islab.changwon.ac.kr/){:target="_blank"}, Electrical Electronics and Control & Instrumentation Engineering
 
-I experimented with an FPGA, and measured the power consumption among the LookUp Tables (LUTs) within it. An automated workflow for the measurement of power across the FPGA was made, by first implementing a circuit in each LUT, measuring the power on an oscilloscope using the JTAG terminals on the FPGA, recording the oscilloscope's readings in MATLAB, and plotting graphs from MATLAB.
+Worked on Improving and implementation of Real time face recognition algorithm on Embedded systems such as Raspberry Pi to be deployed as a low cost product. Illumination invariance brought by introducing CLAHE and MLBOHE with minimal processing and significant accuracy improvement.
 
-[Presentation](https://github.com/voletiv/summer_2011_FPGA_Imperial_College_London/blob/master/An Automated Flow for Intra-Die Power Variation Measurement.pdf){:target="_blank"} | [GitHub](https://github.com/voletiv/summer_2011_FPGA_Imperial_College_London){:target="_blank"} repository containing presentation, certificate, and recommendation letter from Prof. Peter Cheung
+[Presentation](https://docs.google.com/presentation/d/1-ll6d8Roit3vQHDcFgP7_X8bDOrhgfRjVkXC8x-vOrY/edit?usp=sharing){:target="_blank"} containing details of the project.
 
 
