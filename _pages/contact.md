@@ -20,6 +20,6 @@ permalink: /contact
 
 [<i class="fa fa-facebook"></i> Facebook](https://www.facebook.com/{{ site.facebook_username }}){:target="_blank"}
 
-
+---
 
 </div>
