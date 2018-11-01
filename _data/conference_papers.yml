@@ -1,0 +1,67 @@
+- title: "Hang in There" -  Lexical and Visual Analysis
+to Identify Posts Warranting Empathetic Responses
+  image:  FLAIRS.jpeg
+  description: <ul><li>In the past few years, social media has risen as a platform
+where people express and share personal incidences about
+abuse, violence and mental health issues. There is a need to
+pinpoint such posts and learn the kind of response expected.
+For this purpose, we understand the sentiment that a personal
+story elicits on different posts present on different social
+media sites, on the topics of abuse or mental health. In this
+paper, we propose a method supported by hand-crafted features
+to judge if the post requires an empathetic response.
+The model is trained upon posts from various web-pages
+and corresponding comments, on both the captions and the
+images. We were able to obtain 80% accuracy in tagging
+posts requiring empathetic responses. </li></ul>
+  authors: Mimansa Jaiswal, Sairam Tabibu, Erik Cambria
+  venue: Proceedings of the Thirtieth International Florida Artificial Intelligence Research Society Conference 
+  number_link: 1
+  link1:
+    url: https://aaai.org/ocs/index.php/FLAIRS/FLAIRS17/paper/view/15505/14960
+    display: pdf
+
+
+#- title: Carry-Free Implementations of Arithmetic Operations in FPGA
+#  image: 2013_leuven.png
+#  description: <ul><li>Design and implementation of addition, subtraction, multiplication using Carry-Free Logic</li>
+#               <li>Developed, tested and verified the modules in Verilog, and simulated circuits in Xilinx</li></ul>
+#  authors: V. Voleti
+#  venue: 24th National Conference on Communications, NCC 2018 (under review)
+#  number_link: 1
+#  link1:
+#    url: 2018_02_NCC.pdf
+#    display: pdf
+
+- title: The Truth and Nothing but the Truth - Multimodal Analysis for Deception Detection
+  image:  ICDM.jpg
+  description: <ul><li>We propose a data-driven method for automatic
+deception detection in real-life trial data using visual and verbal
+cues. Using OpenFace with facial action unit recognition, we
+analyze the movement of facial features of the witness when
+posed with questions and the acoustic patterns using OpenSmile.
+We then perform a lexical analysis on the spoken words,
+emphasizing the use of pauses and utterance breaks, feeding that
+to a Support Vector Machine to test deceit or truth prediction.
+We then try out a method to incorporate utterance-based fusion
+of visual and lexical analysis, using string based matching.</li></ul>
+  authors: Mimansa Jaiswal, Sairam Tabibu, Rajiv Bajpai
+  venue: 2016 IEEE 16th International Conference on Data Mining Workshops
+  number_link: 1
+  link1:
+    url: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7836768
+    display: pdf
+
+# - title: A Multimodal Approach for Image De-fencing and Depth Inpainting
+#   image: 2015_ICAPR.png
+#   description: <ul><li>Elimination of fence-like occlusions, inpainting of images using RGB-D data</li></ul>
+#   authors: S. Jonna, V. S. Voleti, R. R. Sahay
+#   venue: International Conference on Advances in Pattern Recognition, ICAPR 2015
+#   number_link: 2
+#   link1:
+#     url: 2015_ICAPR.pdf
+#     display: pdf
+#   link2:
+#     url: http://ieeexplore.ieee.org/document/7050696/
+#     display: IEEE page
+
