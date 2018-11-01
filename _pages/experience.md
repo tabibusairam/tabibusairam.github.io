@@ -17,7 +17,7 @@ _November 2017 --- present_
 
 # EDUCATION
 
-[<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/iitbhu.jpg">](http://www.iitkgp.ac.in/){:target="_blank"}
+[<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/iitbhu.jpg">](http://www.iitbhu.ac.in/){:target="_blank"}
 
 _2013 --- 2017_
 
