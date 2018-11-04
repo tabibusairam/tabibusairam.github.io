@@ -36,13 +36,13 @@ A [research paper]({{site.url}}{{site.baseurl}}/docs/publications/FLAIRS.pdf){:t
 
 <br />
 
-[<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/ntu.png">](http://www.ntu.edu.sg/Pages/home.aspx){:target="_blank"}
+[<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/iitbhu.png">](http://www.iitbhu.ac.in/){:target="_blank"}
 
 _September-2016 --- December-2016_
 
 ### Multimodal Analysis for Deception Detection
 
-[**NTU Singapore**](http://www.ntu.edu.sg/Pages/home.aspx) --- under [Dr. Rajiv Bajpai](https://scholar.google.com.sg/citations?user=hHZR1xkAAAAJ&hl=en){:target="_blank"}, School of Computer Science and Engineering
+[**IIT BHU**](http://www.iitbhu.ac.in/) --- with [Dr. Rajiv Bajpai](https://scholar.google.com.sg/citations?user=hHZR1xkAAAAJ&hl=en){:target="_blank"}, School of Computer Science and Engineering
 
 We worked on developing a data driven method for automatic deception detection in real-life trial data using visual and verbal cues. Using OpenFace with facial action unit recognition, we analyze the movement of facial features of the witness when posed with questions and the acoustic patterns using OpenSmile. We then perform a lexical analysis on the spoken words, emphasizing the use of pauses and utterance breaks, feeding that to a Support Vector Machine to test deceit or truth prediction. We then try out a method to incorporate utterance-based fusion of visual and lexical analysis, using string based matching.
 
