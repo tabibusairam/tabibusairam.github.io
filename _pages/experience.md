@@ -82,6 +82,7 @@ Worked on Detecting and tracking ships, boats, frigates using IR cameras along t
 
 
 [Report](https://docs.google.com/document/d/1RP5xyj35-vTjzmrRlPIW7YQw-oVJxNPoLKdmF5bCq0Y/edit?usp=sharing){:target="_blank"} containing details of project.
+[Certificate]({{site.url}}{{site.baseurl}}/docs/pcertificates/ntu.pdf){:target="_blank"} of the project.
 
 
 <br />
