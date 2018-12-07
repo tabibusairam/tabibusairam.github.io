@@ -98,6 +98,7 @@ _Summer 2015_
 Worked on Improving and implementation of Real time face recognition algorithm on Embedded systems such as Raspberry Pi to be deployed as a low cost product. Illumination invariance brought by introducing CLAHE and MLBOHE with minimal processing and significant accuracy improvement.
 
 [Presentation](https://docs.google.com/presentation/d/1-ll6d8Roit3vQHDcFgP7_X8bDOrhgfRjVkXC8x-vOrY/edit?usp=sharing){:target="_blank"} containing details of the project.
+[Certificate]({{site.url}}{{site.baseurl}}/docs/certificates/korea.pdf){:target="_blank"} of the project.
 
 <br />
 
