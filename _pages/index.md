@@ -15,7 +15,7 @@ I'm currently a research fellow working with [Prof. C.V Jawahar](https://faculty
 I'm also a mentor for the [Deep learning Certificate program](https://www.greatlearning.in/deep-learning-certificate-program){:target="_blank"} by [Great Learning](https://www.greatlearning.in/){:target="_blank"}. I'm responsible for undertaking live sessions and grading of Deep learning Assignments.
 
 
-I graduated from [IIT BHU, India](http://www.iitbhu.ac.in/){:target="_blank"}, in 2017 with a Bachelors Degree in Electronics Engineering.
+I graduated from [Indian Institute of Technology (BHU), Varanasi, India](http://www.iitbhu.ac.in/){:target="_blank"}, in 2017 with a Bachelors Degree in Electronics Engineering.
 
 <br/>
 
