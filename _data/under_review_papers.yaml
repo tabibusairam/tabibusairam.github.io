@@ -1,0 +1,12 @@
+- title: A deep learning approach for Pan-Renal Cell Carcinoma classification and survival prediction from histopathology images
+  image: bioarxiv.png
+  description: <ul><li>Histopathological images contain morphological markers of disease progression that have diagnostic and predictive values. However, complex morphological information remains unutilized in unaided approach to histopathology. In this study, we demonstrate how deep learning framework can be used for an automatic classification of Renal Cell Carcinoma (RCC) subtypes, and for identification of features that predict survival outcome from digital histopathological images.</li></ul>
+  authors: Sairam Tabibu, P.K. Vinod, C.V. Jawahar
+  venue: [UNDER REVIEW] 
+  number_link: 2
+  link1:
+    url: Bioarxiv.pdf
+    display: pdf
+  link2:
+    url: https://www.biorxiv.org/content/10.1101/559401v1
+    display: url
