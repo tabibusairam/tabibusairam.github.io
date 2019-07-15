@@ -13,7 +13,7 @@ _September 2019_
 
 ### [University of Washington, Seattle](https://www.washington.edu/){:target="_blank"}
 
-**Masters Student**, [Department of Electrical Engineering](https://www.ece.uw.edu/){:target="_blank"}
+**Masters Student**, [Department of Electrical and Computer Engineering](https://www.ece.uw.edu/){:target="_blank"}
 
 <br />
 
@@ -23,29 +23,42 @@ _September 2019_
 
 # WORK EXPERIENCE
 
-[<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/rutgers.png">](https://www.rutgers.edu/){:target="_blank"}
-
-_Summer 2017_
-
-### Crowd simulation
-
-[**Rutgers University, New Brunswick**](https://www.rutgers.edu/) --- under [Prof. Mubbassir Kapadia](https://www.cs.rutgers.edu/~mk1353/){:target="_blank"},  Computer Science Department 
-
-[Remote Project] Worked on crowd simulations investigating the variety of social forces and various optimizations which comes into play while trying to imitate a real time situation using the SteerSuite framework.
-
-A [Youtube Channel](https://www.youtube.com/channel/UCYEGmH0plrYfEzMd-i3B9HA/videos?sort=dd&view=0&shelf_id=0&view_as=subscriber){:target="_blank"} displaying the simulations.
-
-<br />
 
 [<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/iiit.png">](http://cvit.iiit.ac.in/){:target="_blank"}
 
-_November 2017 --- present_
+_November 2017 --- Feb 2019_
 
-### [CVIT, IIIT Hyderabad](http://cvit.iiit.ac.in/){:target="_blank"}
+### [International Institute of Information Techonology - Hyderabad](http://cvit.iiit.ac.in/){:target="_blank"}
 
-**Research Fellow**, supervisor: [Prof. C.V. Jawahar](https://faculty.iiit.ac.in/~jawahar/){:target="_blank"}
+**Research Assistant - Applied Research Lab**, under [Prof. C.V. Jawahar](https://faculty.iiit.ac.in/~jawahar/){:target="_blank"}, CVIT, IIIT-Hyderabad, India
+
+I worked on detection of Cancerous regions from Kidney tissue Images and prediction of survivability using Deep Learning techniques.
+
+- **Cancer and its subtype detection**
+    - Experimented with various Deep CNN's to distinguish Cancerous regions from Kidney Cancer slides(~60000*100k pixels) from the normal ones, dataset of which was obtained from [TCGA](https://portal.gdc.cancer.gov/legacy-archive/search/f){:target="_blank"}.
+    - Experimented for distinguishing the subtypes within the same Cancerous tissues using similar methods.
+    - Experimented using various methods such as DAGSVM, SMOTE to deal with the inherent data imbalance.
+
+- **Survival Prediction**
+    - Built a pipeline which could automatically extract high probability regions as detected from the Cancer detection model and extract relevant tissue and Nuclei information such as area, perimeter, eccentricity etc. without any supervision of a pathologist.
+    - Built a survival prediction system using a COX-model trained on the above features. 
 
 <br />
+
+
+
+[<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/gl.jpg">](https://www.greatlearning.in/){:target="_blank"}
+
+_November 2018 --- May 2019_
+
+### [Great Learning](https://www.greatlearning.in/){:target="_blank"}
+
+**Mentor**, [Deep Learning Certificate Program](https://www.greatlearning.in/deep-learning-course){:target="_blank"}
+
+This is a certificate program by Great Learning. I took online sessions, teaching fundamentals of Machine Learning and Computer Vision to working professionals. I also assisted in grading the assignments of the participants.
+
+<br />
+
 
 
 # RESEARCH & TECHNICAL INTERNSHIPS
