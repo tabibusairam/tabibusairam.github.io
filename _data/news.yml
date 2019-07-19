@@ -1,7 +1,7 @@
-- date: June 28, 2019
-  news: Paper Accepted at <a href="https://www.nature.com/srep/" target="_blank">Nature Scientific Reports</a>. Paper title - "Pan-Renal Cell Carcinoma classification and survival prediction from histopathology images using deep learning"
-  url: https://www.biorxiv.org/content/10.1101/559401v1
-  pdf: Bioarxiv.pdf
+- date: July 19, 2019
+  news: Paper published in <a href="https://www.nature.com/srep/" target="_blank">Nature Scientific Reports</a>. Paper title - "Pan-Renal Cell Carcinoma classification and survival prediction from histopathology images using deep learning"
+  url: https://www.nature.com/articles/s41598-019-46718-3
+  pdf: Nature_SR.pdf
   category: publications
 
 # - date: September 24, 2018

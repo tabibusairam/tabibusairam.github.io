@@ -43,6 +43,13 @@ I worked on detection of Cancerous regions from Kidney tissue Images and predict
     - Built a pipeline which could automatically extract high probability regions as detected from the Cancer detection model and extract relevant tissue and Nuclei information such as area, perimeter, eccentricity etc. without any supervision of a pathologist.
     - Built a survival prediction system using a COX-model trained on the above features. 
 
+
+
+A [research paper]({{site.url}}{{site.baseurl}}/docs/publications/Nature_SR.pdf){:target="_blank"} based on this work has been published in [Nature Scientific Reports](https://www.nature.com/articles/s41598-019-46718-3){:target="_blank"}.
+
+| [**Research paper**]({{site.url}}{{site.baseurl}}/docs/publications/Nature_SR.pdf){:target="_blank"}: Sairam Tabibu, P.K Vinod and C. V. Jawahar. "Pan-Renal Cell Carcinoma classification and survival prediction from histopathology images using deep learning" Nature Scientific Reports 2019 |
+
+
 <br />
 
 
@@ -139,7 +146,7 @@ and corresponding comments, on both the captions and the Images. We were able to
 
 A [research paper]({{site.url}}{{site.baseurl}}/docs/publications/FLAIRS.pdf){:target="_blank"} based on this work has been published in [AAAI Publications](https://aaai.org/ocs/index.php/FLAIRS/FLAIRS17/paper/view/15505){:target="_blank"} in proceedings of the Proceedings of the Thirtieth International Florida Artificial Intelligence Research Society Conference, [FLAIRS 2017](https://aaai.org/ocs/index.php/FLAIRS/FLAIRS17/paper/view/15505){:target="_blank"}.
 
-| [**Research paper**]({{site.url}}{{site.baseurl}}/docs/publications/FLAIRS.pdf){:target="_blank"}: Jaiswal, Mimansa, Sairam Tabibu, and Erik Cambria. "“Hang in There”: Lexical and Visual Analysis to Identify Posts Warranting Empathetic Responses." (2017). |
+| [**Research paper**]({{site.url}}{{site.baseurl}}/docs/publications/FLAIRS.pdf){:target="_blank"}: Mimansa Jaiswal, Sairam Tabibu, and Erik Cambria. "“Hang in There”: Lexical and Visual Analysis to Identify Posts Warranting Empathetic Responses." (2017). |
 
 
 <br />
@@ -156,7 +163,7 @@ We worked on developing a data driven method for automatic deception detection i
 
 A [research paper]({{site.url}}{{site.baseurl}}/docs/publications/ICDMW.pdf){:target="_blank"} based on this work has been published in [IEEE Explore](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7836768){:target="_blank"} in proceedings of the 16th International Conference on Data Mining Workshops, [ICDM 2016](https://aaai.org/ocs/index.php/FLAIRS/FLAIRS17/paper/view/15505){:target="_blank"}. 
 
-| [**Research paper**]({{site.url}}{{site.baseurl}}/docs/publications/ICDMW.pdf){:target="_blank"}: Jaiswal, Mimansa, Sairam Tabibu, and Rajiv Bajpai. "The Truth and Nothing But the Truth: Multimodal Analysis for Deception Detection." ICDM Workshops. 2016. |
+| [**Research paper**]({{site.url}}{{site.baseurl}}/docs/publications/ICDMW.pdf){:target="_blank"}: Mimansa Jaiswal, Sairam Tabibu, and Rajiv Bajpai. "The Truth and Nothing But the Truth: Multimodal Analysis for Deception Detection." ICDM Workshops. 2016. |
 
 
 <br />
