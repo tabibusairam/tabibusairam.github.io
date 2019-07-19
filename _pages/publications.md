@@ -3,7 +3,6 @@ title: Sairam Tabibu's publications
 layout: default
 excerpt: Sairam Tabibu's publications
 permalink: /publications
-
 ---
 ## Journal papers
 
