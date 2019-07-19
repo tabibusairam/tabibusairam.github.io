@@ -24,7 +24,7 @@ permalink: /publications
 
 {% endfor %}
 
-<p>&nbsp;</p>
+<!-- <p>&nbsp;</p> -->
 
 
 
