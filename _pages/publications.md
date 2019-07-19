@@ -16,6 +16,7 @@ permalink: /publications
 <p>&nbsp;</p>
 
 
+{% comment %}
 ## Conference papers
 
 {% for publication in site.data.conference_papers %}
@@ -25,6 +26,8 @@ permalink: /publications
 {% endfor %}
 
 <p>&nbsp;</p>
+{% endcomment %}
+
 
 
 
