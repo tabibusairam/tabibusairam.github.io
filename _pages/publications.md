@@ -15,19 +15,7 @@ permalink: /publications
 
 <p>&nbsp;</p>
 
-<!-- {% assign numOfJournals = loopindex %}
-{% endcomment %} -->
 
-<!-- ## Thesis / Reports
-
-{% for publication in site.data.reports %}
-
-{% include publications.html %}
-
-{% endfor %}
- -->
----
-{% comment %}
 ## Conference papers
 
 {% for publication in site.data.conference_papers %}
@@ -38,13 +26,5 @@ permalink: /publications
 
 <p>&nbsp;</p>
 
-<!-- ## Under review
 
-{% for publication in site.data.under_review_papers %}
-
-{% include publications.html %}
-
-{% endfor %}
-
-<p>&nbsp;</p> -->
 
