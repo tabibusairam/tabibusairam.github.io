@@ -4,18 +4,6 @@ layout: default
 excerpt: Sairam Tabibu's publications
 permalink: /publications
 ---
-<!-- ## Under review
-
-{% for publication in site.data.under_review_papers %}
-
-{% include publications.html %}
-
-{% endfor %}
-
-<p>&nbsp;</p> -->
-
-
-{% comment %}
 ## Journal papers
 
 {% for publication in site.data.journal_papers %}
@@ -26,8 +14,8 @@ permalink: /publications
 
 <p>&nbsp;</p>
 
-{% assign numOfJournals = loopindex %}
-{% endcomment %}
+<!-- {% assign numOfJournals = loopindex %}
+{% endcomment %} -->
 
 <!-- ## Thesis / Reports
 
@@ -48,5 +36,13 @@ permalink: /publications
 
 <p>&nbsp;</p>
 
+<!-- ## Under review
 
+{% for publication in site.data.under_review_papers %}
+
+{% include publications.html %}
+
+{% endfor %}
+
+<p>&nbsp;</p> -->
 
