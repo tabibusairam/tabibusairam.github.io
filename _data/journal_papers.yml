@@ -1,6 +1,6 @@
 - title: Pan-Renal Cell Carcinoma classification and survival prediction from histopathology images using deep learning
   image: nature_SR.jpg
-  description: <ul><li>Detection of Cancerous regions from Kidney tissue Images along with it's subtype and prediction of survivability using Deep Learning techniques.</li><ul>
+  description: Detection of Cancerous regions from Kidney tissue Images along with it's subtype and prediction of survivability using Deep Learning techniques.
   authors: Sairam Tabibu, P. K. Vinod and C. V. Jawahar
   venue: Nature Scientific Reports
   number_link: 2
