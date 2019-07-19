@@ -17,13 +17,13 @@ permalink: /publications
 
 
 
-<!-- ## Conference papers
+## Conference papers
 
 {% for publication in site.data.conference_papers %}
 
 {% include publications.html %}
 
-{% endfor %} -->
+{% endfor %}
 
 <!-- <p>&nbsp;</p> -->
 
