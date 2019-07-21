@@ -6,23 +6,20 @@ permalink: /publications
 ---
 
 
+## Journal papers
 
-
-
-## Conference papers
-
-{% for publication in site.data.conference_papers %}
+{% for publication in site.data.journal_papers %}
 
 {% include publications.html %}
 
 {% endfor %}
 
+<p>&nbsp;</p>
 
 
+## Conference papers
 
-## Journal papers
-
-{% for publication in site.data.journal_papers %}
+{% for publication in site.data.conference_papers %}
 
 {% include publications.html %}
 
