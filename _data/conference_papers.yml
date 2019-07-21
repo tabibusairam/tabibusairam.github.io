@@ -1,6 +1,6 @@
 - title: Hang in There - Lexical and Visual Analysis to Identify Posts Warranting Empathetic Responses
   image: FLAIRS.jpeg
-  description: <ul><li>In the past few years, social media has risen as a platform where people express and share personal incidences about abuse, violence and mental health issues. There is a need to pinpoint such posts and learn the kind of response expected. For this purpose, we understand the sentiment that a personal story elicits on different posts present on different social media sites, on the topics of abuse or mental health. In this paper, we propose a method supported by hand-crafted features to judge if the post requires an empathetic response. The model is trained upon posts from various web-pages and corresponding comments, on both the captions and the images. We were able to obtain 80% accuracy in tagging posts requiring empathetic responses. </li></ul>
+  description: <ul><li>Proposed a method supported by hand-crafted features to judge if a post requires an empathetic response.</li></ul>
   authors: Mimansa Jaiswal, Sairam Tabibu, Erik Cambria
   venue: <a href="https://aaai.org/Library/FLAIRS/flairs17contents.php">Proceedings of the Thirtieth International Florida Artificial Intelligence Research Society Conference 2017</a>
   number_link: 2
@@ -25,7 +25,7 @@
 
 - title: The Truth and Nothing but the Truth - Multimodal Analysis for Deception Detection
   image:  ICDM.jpg
-  description: <ul><li>We propose a data-driven method for automatic deception detection in real-life trial data using visual and verbal cues. Using OpenFace with facial action unit recognition, we analyze the movement of facial features of the witness when posed with questions and the acoustic patterns using OpenSmile. We then perform a lexical analysis on the spoken words, emphasizing the use of pauses and utterance breaks, feeding that to a Support Vector Machine to test deceit or truth prediction. We then try out a method to incorporate utterance-based fusion of visual and lexical analysis, using string based matching.</li></ul>
+  description: <ul><li>Data-driven method for automatic deception detection in real-life trial data using visual and verbal cues.</li></ul>
   authors: Mimansa Jaiswal, Sairam Tabibu, Rajiv Bajpai
   venue: <a href="https://www.computer.org/csdl/proceedings/2016/icdmw/12OmNynJMVA">IEEE 16th International Conference on Data Mining Workshops 2016</a>
   number_link: 2
