@@ -2,7 +2,7 @@
   image: nature_SR.jpg
   description: <ul><li>Detection of Cancerous regions from Kidney tissue Images along with it's subtype and prediction of survivability using Deep Learning techniques. </li></ul>
   authors: Sairam Tabibu, P. K. Vinod and C. V. Jawahar
-  venue: Nature Scientific Reports
+  venue: <a href="https://www.nature.com/srep/">Nature Scientific Reports 2019</a>
   number_link: 2
   link1:
     url: Nature_SR.pdf
