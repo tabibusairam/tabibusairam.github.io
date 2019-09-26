@@ -10,7 +10,7 @@ permalink: /
 <img class="profile-picture" src="{{site.url}}{{site.baseurl}}/images/profile-picture/0.jpeg">
 
 
-I'll be joining as a Master's student at [University of Washington, Seattle](https://www.washington.edu/){:target="_blank"} in the [Electrical Engineering Department](https://www.ece.uw.edu/){:target="_blank"} in Autumn 2019. 
+I'm a graduate student at [University of Washington, Seattle](https://www.washington.edu/){:target="_blank"} in the [Electrical and Computer Engineering Department](https://www.ece.uw.edu/){:target="_blank"}.
 
 
 Previously I was a research fellow working with [Prof. C.V Jawahar](https://faculty.iiit.ac.in/~jawahar/){:target="_blank"} at the Applied Research Lab, [CVIT, IIIT-Hyderabad](https://cvit.iiit.ac.in){:target="_blank"} and [Prof. Vinod](https://faculty.iiit.ac.in/~vinod.pk/){:target="_blank"}. I worked on Histopahological Analysis of Kidney Carcinoma images deriving relevant inferences such as detection of Cancer and its subtypes and predicting the survival outcome using Deep learning.
